@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1 className={styles.redColor}>All Good ?</h1>
+        <h1 className={styles.redColor}>Test Commit ?</h1>
         <button>Click Me</button>
       </main>
     </>
