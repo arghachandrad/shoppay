@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main>
         <h1 className={styles.redColor}>All Good ?</h1>
-        <button>Click</button>
+        <button>Click Me</button>
       </main>
     </>
   );
